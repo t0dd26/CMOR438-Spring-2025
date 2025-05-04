@@ -1,7 +1,7 @@
 # CMOR438-Spring-2025  
 Creator: t0dd26  
 
-![Machine Learning](machineLearning.jpg)  
+![Machine Learning](Cover.jpg)  
 
 This repository is the complete code and data for CMOR 438: Machine Learning (Spring 2025). It follows a typical ML project workflow—data organization & exploration, model selection, and model comparison—covering both supervised and unsupervised methods. All examples are hands-on Jupyter notebooks with self-written implementations and scikit-learn demos, using consistent datasets where possible to highlight each algorithm’s behavior.
 
