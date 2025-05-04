@@ -20,6 +20,7 @@ This repository is the complete code and data for CMOR 438: Machine Learning (Sp
 
 Learn more:  
 - [Supervised learning in scikit-learn](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)  
+- [Unsupervised learning in scikit-learn](https://scikit-learn.org/stable/unsupervised_learning.html)
 
 ## Clustering vs Anomaly Detection  
 - **Clustering** partitions data into \(K\) groups when labels are unknown (e.g. K-Means, GMM).  
@@ -79,11 +80,14 @@ All notebooks live in `notebooks/`, data in `data/`, and helper modules in `src/
    cd CMOR438-Spring-2025
 
 2. **Install Dependencies**
+    ```bash
     pip install -r requirements.txt
-    # or with conda
+**or with conda**
+    ```bash
     conda env create -f environment.yml
 
 3. **Launch Jupyter**
+    ```bash
     jupyter lab
 
 Then open any notebook under notebooks/.
