@@ -83,7 +83,6 @@ All notebooks live in `notebooks/`, data in `data/`, and helper modules in `src/
     ```bash
     pip install -r requirements.txt
 **or with conda**
-    ```bash
     conda env create -f environment.yml
 
 3. **Launch Jupyter**
